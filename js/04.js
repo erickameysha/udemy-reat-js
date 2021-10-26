@@ -20,7 +20,7 @@ function compareNum(a, b) {
 // }
 
 for(let value of arr) {
-  console.log(value);
+ arr[i]
 }
 
 const str = prompt('', '');
